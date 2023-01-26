@@ -1,0 +1,271 @@
+{
+"recently" : [
+  {
+    "id": 1,
+    "title": "Sad Song",
+    "image":
+      "https://lh4.googleusercontent.com/proxy/8e7M8_6jgc-aX02npF6c4HLS18BBEWpyYSKSiII7iE5nNRQ1APnxuhEvkOv43hVY2lu4PiRsyXNfSdrWVj13kWb_2iw"
+  },
+  {
+    "id": 2,
+    "title": "Em ổn không",
+    "image":
+      "https://i.ytimg.com/vi/vYLYQY5dMiw/maxresdefault.jpg"
+  }, 
+  {
+    "id": 3,
+    "title": "The Feels",
+    "image":
+      "https://afamilycdn.com/150157425591193600/2021/9/3/e-vzzodvgaawfd-1630657400135450424937.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Suýt nữa thì",
+    "image":
+      "https://i.ytimg.com/vi/cUmpJ2zwfVU/maxresdefault.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Summer Breeze",
+    "image":
+      "https://avatar-ex-swe.nixcdn.com/song/2020/07/15/b/b/c/7/1594783336624_640.jpg"
+  },
+  {
+    "id": 6,
+    "title": "TT",
+    "image":
+      "https://i.pinimg.com/originals/4e/c8/30/4ec8306eea785f065773b542cb793d9a.jpg"
+  } 
+],
+ "forme" : [
+  {
+    "id": 1,
+    "title": "Intel NUC 11 Performance kit Mini PC",
+    "gia":"30.000.000vnđ",
+    "icon":"cart-plus",
+    "image":
+      "https://anphat.com.vn/media/product/37416_t___i_xu___ng.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Mainboard ASUS TUF GAMING B450M-PRO II",
+    "gia":"3.000.000vnđ",
+    "icon":"cart-plus",
+    "image": "https://anphat.com.vn/media/product/39330_9knmycqvyhvtxcpv_setting_xxx_0_90_end_800.png"
+  },
+  {
+    "id": 3,
+    "title": "Ghế game DXRacer MASTER ",
+    "gia":"7.000.000vnđ",
+    "icon":"cart-plus",
+    "image":
+      "https://anphat.com.vn/media/product/36448_dxracer_master_series_dmc_ia233s_r__1_.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Vỏ case Coolermaster Masterbox",
+    "gia":"11.000.000vnđ",
+    "icon":"cart-plus",
+    "image": "https://anphat.com.vn/media/product/33868_7105_71pgvj4yjol__ac_sl1500_.jpg"
+  }
+],
+
+ "data1" : [
+  {
+    "id": 1,
+    "title": "Laptop Acer Gaming Aspire 7 ",
+    "gia":"30.000.000vnđ",
+    "icon":"cart-plus",
+    "image": "https://anphat.com.vn/media/product/39300_20703_laptop_acer_gaming_aspire_7_a715_42g_r6zr_0.jpg",
+    "thongtinsp":
+      "Ryzen R5-5500U | 8GB | 512GB | GTX 1650 4GB | 15.6 inch FHD | Win 10 | Đen"
+  },
+  {
+    "id": 2,
+    "title": "CPU AMD Ryzen Threadripper 3960X ",
+    "gia":"35.000.000vnđ",
+    "icon":"cart-plus",
+    "image":
+      "https://anphat.com.vn/media/product/31422_ryzen_threadripper_3960x_img_main_600x600.jpg",
+    "thongtinsp":
+      "4.5 GHz Max boost / 140MB Cache / 24 cores/ 48 threads / 280W / Socket TRX4 / No Integrated Graphics / (No Fan)"  
+  },
+  {
+    "id": 3,
+    "title": "VGA SAPPHIRE PULSE Radeon RX 6600 XT",
+    "gia":"50.000.000vnđ",
+    "icon":"cart-plus",
+    "image":
+      "https://anphat.com.vn/media/product/38818_11309_03_rx6600xt_pulse_3dp_hdmi_lbc.jpg",
+    "thongtinsp":
+      "Dung lượng bộ nhớ: 12GB GDDR6 / Core Clock: 1680 MHz (Reference Card: 1650 MHz) / Băng thông: 192 bit / Kết nối: DisplayPort 1.4 *3, HDMI 2.0b *1"
+        
+  },
+  {
+    "id": 4,
+    "title": "Màn hình máy tính Asus VY249HE",
+    "gia":"10.000.000vnđ",
+    "icon":"cart-plus",
+    "image": "https://anphat.com.vn/media/product/36988_w800__3_.png",
+    "thongtinsp":
+    "Loại màn hình: Phẳng / Tỉ lệ: 16:9 /  Kích thước: 23.8 inch /  Tấm nền: IPS"     
+  },
+  {
+    "id": 5,
+    "title": "Nguồn máy tính Cooler Master V750",
+    "gia":"15.000.000vnđ",
+    "icon":"cart-plus",
+    "image": "https://anphat.com.vn/media/product/34201_v750_sfx_gold_gallery_2_image.png",
+    "thongtinsp":
+    " V750w 80 Plus Platinum - Full Modul- CP-9020140-NA"  
+  }
+],
+
+ "trending" : [
+  {
+    "id": 1,
+    "title": "Laptop ASUS TUF Gaming F15 FX506HCB-HN139T",
+    "gia":"22.000.000vnđ",
+    "icon":"cart-plus",
+    "image":
+      "https://anphat.com.vn/media/product/36980_nbas0919.jpg"
+  },
+  {
+    "id": 2,
+    "title": "CPU Intel Core i9-12900KF",
+    "gia":"9.000.000vnđ",
+    "icon":"cart-plus",
+    "image": "https://anphat.com.vn/media/product/39596_61451_cpu_intel_core_i9_12900kf_3_9ghz_turbo_up_to_5_2ghz_16_nhan_24_luong_30mb_cache_125w_socket_intel_lga_1700_alder_lake_01.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Ổ cứng SSD Samsung 980 250GB M.2 NVMe ",
+    "gia":"5.000.000vnđ",
+    "icon":"cart-plus",
+    "image":
+      "https://anphat.com.vn/media/product/37440_mz_v8v250_02.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Tai nghe DareU EH722X 7.1 Black",
+    "gia":"7.000.000vnđ",
+    "icon":"cart-plus",
+    "image": "https://anphat.com.vn/media/product/35285_dareu_eh722x_black.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Bàn phím cơ Vortex ViBE Blue switch",
+    "icon":"cart-plus",
+    "gia":"1.000.000vnđ",
+    "image": "https://anphat.com.vn/media/product/26156_vortex_vibe__1_.JPG"
+  }
+],
+
+"cart" :[
+  {
+    "id": 1,
+    "title": "Trident Z Royal",
+    "gia": "4.490.000vnđ",
+    "image": "https://product.hstatic.net/1000026716/product/gskill_tridentz_royal_gearvn00_f1c7e80894854252a7f226f168b80b04.jpg",
+    "so luong":"2",
+    "thanh tien":"9.980.000vnđ"
+  },
+  {
+    "id": 2,
+    "title": "ASUS B560M ",
+    "gia": "3.990.000vnđ",
+    "image": "https://product.hstatic.net/1000026716/product/06_ee928e4bee7d45dd9ac3728cca62cd87.png",
+    "so luong":"3",
+    "thanh tien":"11.970.000vnđ"
+  },
+  {
+    "id": 3,
+    "title": "AMD Ryzen 3 3200G",
+    "gia": "2.990.000vnđ",
+    "image": "https://product.hstatic.net/1000026716/product/ryzen_5_3200g_gearvn_e799782ec0cd4d46b675a04c2a399a45.jpg",
+    "so luong":"3",
+    "thanh tien":"8.970.000vnđ"
+  },
+  {
+    "id": 4,
+    "title": "G.SKILL Trident Z Royal",
+    "gia": "4.490.000vnđ",
+    "image": "https://product.hstatic.net/1000026716/product/gskill_tridentz_royal_gearvn02_3bf6c123ced84ef7994cf14845824eb3_435bf5f892d747f1a3588e9d2dffbfe7.png",
+    "so luong":"4",
+    "thanh tien":"17.960.000vnđ"
+  }
+], 
+
+ "category" : [
+  {
+    "id": 1,
+    "title": "CPU",
+    "color": "#FF6600"
+  },
+  {
+    "id": 2,
+    "title": "Main",
+    "color": "#FF6699"
+  },
+  {
+    "id": 3,
+    "title": "Bàn phím",
+    "color": "#9966FF"
+  },
+  {
+    "id": 4,
+    "title": "Tai nghe",
+    "color": "#0066CC"
+  },
+  {
+    "id": 5,
+    "title": "VGA",
+    "color": "#6699FF"
+  },
+  {
+    "id": 6,
+    "title": "Ghế gaming",
+    "color": "#660033"
+  },
+  {
+    "id": 7,
+    "title": "PSU",
+    "color": "#CC9999"
+  },
+  {
+    "id": 8,
+    "title": "Case",
+    "color": "#00CC99"
+  }
+],
+
+ "list" : [
+  {
+    "title": "Thông báo",
+    "icon": "notifications"
+  },
+  {
+    "title": "Hóa đơn",
+    "icon": "bookmark"
+  },
+  {
+    "title": "tài khoản",
+    "icon": "settings"
+  
+  }
+],
+ "list1" : [
+  {
+    "title": "hỗ trợ",
+    "icon": "phone"
+  },
+  { 
+    "title": "tin tức",
+    "icon": "card-giftcard"
+  },
+  {
+    "title": "đánh giá",
+    "icon": "face"
+  }
+]
+}

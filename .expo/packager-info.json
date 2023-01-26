@@ -1,0 +1,10 @@
+{
+  "expoServerNgrokUrl": "https://gk-g5p.anonymous.nguyenphuongpc.exp.direct",
+  "packagerNgrokUrl": "https://packager.gk-g5p.anonymous.nguyenphuongpc.exp.direct",
+  "ngrokPid": 656,
+  "expoServerPort": 19000,
+  "devToolsPort": 19002,
+  "packagerPort": 19001,
+  "webpackServerPort": null,
+  "packagerPid": 9760
+}
